@@ -2,10 +2,10 @@
 x: value
 i: integer
 
-Sequence                                 : an ordered collection
+Sequence                                                 : an ordered collection
 
-		--▷List                         : represented by []. mutable. homogeneous.
-		                                   can be accessed via iteration
+		--▷List                                 :  represented by []. mutable. homogeneous.
+		                                            can be accessed via iteration
 
 				 - append(x)             : adds x to the list
 				 - extend(list)          : appends all items in the given list to the list
@@ -23,10 +23,10 @@ Sequence                                 : an ordered collection
 				 --▶ list comprehension
 
 
-		--▷Tuple                        : represented by (). immutable. heterogeneous. 
-		                                   can be accessed via unpacking or indexing
+		--▷Tuple                                : represented by (). immutable. heterogeneous. 
+		                                           can be accessed via unpacking or indexing
 
-		         - unpack                : assign its elements to variables on left (the quantity must match)
+		         - unpack                        : assign its elements to variables on left (the quantity must match)
 
 		--▷Range
 
@@ -35,8 +35,7 @@ Sequence                                 : an ordered collection
 Sets                                     : An unordered collection without duplicate elements
                                            represented by {}
                                            (Yeah, we learned these at Math class)
-
-                 * To create a set, use set(), not {}
+                                           * To create a set, use set(), not {}
 
                  - union                 : A U B
                  - intersection          : A ∩ B
@@ -46,7 +45,6 @@ Sets                                     : An unordered collection without dupli
 
 
 Mapping
-
 		--▷Dictionary  
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
