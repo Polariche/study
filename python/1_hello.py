@@ -1,12 +1,12 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-print() 					: print a message to the console
+print() 		     : print a message to the console
 
 sequence --▷ 	string      : implement of sequence. immutable.
-				list 		: implement of sequence. mutable. 
+		 list        : implement of sequence. mutable. 
 				
-		 --▶	sequence[a:b] - returns a sequence
-			    				which includes from sequence[a] (included) to sequence[b] (excluded)
-			    				* sequence[:] is a deep copy of sequence
+	 --▶	sequence[a:b] - returns a sequence
+			    	which includes from sequence[a] (included) to sequence[b] (excluded)
+			    	* sequence[:] is a deep copy of sequence
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
